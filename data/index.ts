@@ -75,7 +75,7 @@ export const projects = [
     title: "Authentication",
     des: "Authentication in a MERN stack involves setting up a Node.js and Express.js backend with MongoDB for data storage and React.js for the frontend, using JWT tokens for secure authentication. Key steps include initializing the project, installing dependencies, and managing user sessions via the frontend.",
     img: "/hi.webp",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/js.svg", "/node.svg", "/fb.svg"],
     link: "https://authentication-1-yk0m.onrender.com",
   },
   {
@@ -83,7 +83,7 @@ export const projects = [
     title: "Google Search Clone",
     des: "Build a Google search clone with Next.js, Tailwind CSS, and Google Search Engine API for live search functionality.",
     img: "/Google.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/node.svg", "/gapi.svg", "/js.svg"],
     link: "https://google-searchclone.vercel.app/",
   },
   {
@@ -91,7 +91,7 @@ export const projects = [
     title: "IMDB Clone",
     des: "IMDb is an online database for movies, TV shows, and celebrities, offering ratings, reviews, and extensive information,created with Next Js and Tailwind Css",
     img: "/IMDB.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/js.svg", "/node.svg"],
     link: "https://imbd-chi.vercel.app/",
   },
   {
@@ -99,7 +99,7 @@ export const projects = [
     title: "Shoppy Admin DashBoard - (UI/UX Design)",
     des: "An admin dashboard built with Tailwind CSS and React offers a responsive, modern UI with customizable components, ensuring efficient state management and dynamic data rendering. ",
     img: "/Blog.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/js.svg"],
     link: "https://shoppy6.vercel.app/",
   },
   {
@@ -107,7 +107,7 @@ export const projects = [
     title: "BrainWave - (UI/UX Design)",
     des: "Brainstorm is an eye-catching UI/UX designed platform built with React and Tailwind CSS, offering a sleek, responsive interface with dynamic data handling. Tailwind's utility-first styling ensures rapid development, while React provides efficient state management for a seamless user experience.",
     img: "/ai.jpeg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/js.svg", "/vite.svg", "/fm.svg"],
     link: "https://brain-strom-bay.vercel.app/",
   },
   {
@@ -115,7 +115,7 @@ export const projects = [
     title: "EShop-(UI/UX Design)",
     des: "Our e-commerce website, featuring a sleek dark mode, is built with React and Tailwind CSS for a modern and responsive shopping experience. The dark mode provides a visually appealing interface that reduces eye strain.",
     img: "/ecom.jpeg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/re.svg", "/boot.svg", "/js.svg", "/vite.svg"],
     link: "https://project-1-wheat-three.vercel.app/",
   },
 ];
